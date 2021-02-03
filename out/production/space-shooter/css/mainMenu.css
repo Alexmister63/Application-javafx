@@ -1,0 +1,9 @@
+Button {
+    -fx-background-color: black;
+    -fx-font-size: 25;
+    -fx-border-width: none;
+}
+
+Button:hover{
+    -fx-background-color: white;
+}
